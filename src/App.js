@@ -20,7 +20,6 @@ import {
   deleteContact,
 } from "./services/contactService";
 
-import "./App.css";
 import {
   CURRENTLINE,
   FOREGROUND,
